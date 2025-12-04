@@ -1,5 +1,5 @@
 // assets/script.js - full file with darker modal overlay + zoom animation, robust social wiring, projects, modal/carousel, contact
-const API_URL = "http://localhost:3000/api/contact"; // optional backend endpoint for contact form
+const API_URL = "https://portfolio-backend-1-mcyq.onrender.com/api/contact"; // optional backend endpoint for contact form
 const GITHUB_USERNAME = "sonarosa"; // <-- set your GitHub username here
 const LINKEDIN_URL = "https://www.linkedin.com/in/sona-rosa-babloo-725453227/"; // <-- set your LinkedIn profile URL
 
